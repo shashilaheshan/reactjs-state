@@ -9,7 +9,8 @@ class App extends Component {
       { title: "vue js crash", id: 1, completed: false },
       { title: "React js crash", id: 2, completed: false },
       { title: "Laravel js crash", id: 3, completed: false },
-      { title: "Techz js crash", id: 4, completed: false }
+      { title: "Techz js crash", id: 4, completed: false },
+      { title: "Techz js crash2", id: 5, completed: true }
     ]
   };
   render() {
